@@ -1,6 +1,6 @@
 # web-assignment
 
-title:- Mama's kitchen
+Title:- Mama's Kitchen
 
 Group Memembers
 
